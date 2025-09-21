@@ -25,7 +25,7 @@ The dataset contains 12,000 images of eight geometric shapes from Kaggle. All im
 - 99.42% weighted accuracy
 
 ## Files
-- `Arbre_de_décision.ipynb` - Random Forest implementation
+- `Decision_tree.ipynb` - Random Forest implementation
 - `CNN.ipynb` - CNN implementation
 - Dataset: https://www.kaggle.com/datasets/reevald/geometric-shapes-mathematics/data
 
